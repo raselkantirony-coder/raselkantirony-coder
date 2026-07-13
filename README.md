@@ -2,7 +2,7 @@
   <img src="https://media.licdn.com/dms/image/v2/D5616AQHQrOB6wVhG_g/profile-displaybackgroundimage-shrink_350_1400/B56Z9bx3oZIUAU-/0/1783951227796?e=1785369600&v=beta&t=1r-dKHaaAmaFj4xQBPDGQYyj2upzLel1L1jrd-nNVNo" width="100%" alt="Rasel Kanti Rony Banner">
 </p>
 
-<h1 align="center">Hi 👋, I'm Rasel Kanti Rony</h1>
+<h1 align="center">Hi, I'm Rasel Kanti Rony</h1>
 
 <h3 align="center">
 IT Administrator | Web Developer | WordPress Developer
@@ -120,9 +120,6 @@ I enjoy building responsive websites and maintaining reliable IT infrastructure.
 
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
 
@@ -180,9 +177,6 @@ My goal is to continuously improve my technical expertise in Web Development and
 
 ---
 
-
-
-> **Note:** This animation will appear after you enable the GitHub Action workflow.
 
 ---
 
