@@ -283,33 +283,7 @@ My goal is to continuously improve my technical expertise in Web Development and
 
 ---
 
-# 📈 GitHub Profile Summary
 
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raselkantirony-coder&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raselkantirony-coder&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raselkantirony-coder&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raselkantirony-coder&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/raselkantirony-coder/raselkantirony-coder/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 
 > **Note:** This animation will appear after you enable the GitHub Action workflow.
 
