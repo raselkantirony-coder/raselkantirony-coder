@@ -47,7 +47,7 @@ I enjoy building responsive websites and maintaining reliable IT infrastructure.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,php,mysql,wordpress,git,github,vscode&perline=5"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,php,mysql,wordpress"/>
 
 </p>
 
@@ -111,21 +111,7 @@ I enjoy building responsive websites and maintaining reliable IT infrastructure.
 
 ---
 
-# 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=raselkantirony-coder&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raselkantirony-coder&theme=tokyo-night&hide_border=true" />
-</p>
-
----
 
 # 🏆 GitHub Trophies
 
