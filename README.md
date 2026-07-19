@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQHQrOB6wVhG_g/profile-displaybackgroundimage-shrink_350_1400/B56Z9bx3oZIUAU-/0/1783951227796?e=1785369600&v=beta&t=1r-dKHaaAmaFj4xQBPDGQYyj2upzLel1L1jrd-nNVNo" width="100%" alt="Rasel Kanti Rony Banner">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQEiWlOMZXezeQ/profile-displaybackgroundimage-shrink_350_1400/B56Z9qw944IgAU-/0/1784202649393?e=1785974400&v=beta&t=NplHpIyo0fuJuLeM2RA_5Z2QTyQsHUdwDoURgg56jMk" width="100%" alt="Rasel Kanti Rony Banner">
+  
 </p>
 
 <h1 align="center">Hi, I'm Rasel Kanti Rony</h1>
