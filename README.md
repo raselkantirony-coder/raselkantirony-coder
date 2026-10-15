@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/rasel-animated-banner.svg" alt="Rasel Kanti Rony - IT Administrator, Web Developer and WordPress Developer. Animated glassmorphism banner with a sliding skills strip." width="100%">
+<img src="rasel-animated-banner.svg" alt="Rasel Kanti Rony - IT Administrator, Web Developer and WordPress Developer. Animated glassmorphism banner with a sliding skills strip." width="100%">
 
 <h1>Rasel Kanti Rony</h1>
 
@@ -35,7 +35,7 @@ I care about reliable systems, maintainable code and interfaces that are easy to
 
 <div align="center">
 
-<img src="assets/skills-slider.svg" alt="Animated skills slider: HTML5, CSS3, Bootstrap, JavaScript, PHP, MySQL, WordPress, Git, GitHub and Visual Studio Code" width="100%">
+<img src="skills-slider.svg" alt="Animated skills slider: HTML5, CSS3, Bootstrap, JavaScript, PHP, MySQL, WordPress, Git, GitHub and Visual Studio Code" width="100%">
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,mysql,wordpress,git,github,vscode&perline=10" alt="HTML5, CSS3, Bootstrap, JavaScript, PHP, MySQL, WordPress, Git, GitHub and Visual Studio Code"></a>
 
@@ -122,8 +122,6 @@ Responsible for IT infrastructure, network administration, user support and the 
 <br>
 
 <img src="https://streak-stats.demolab.com/?user=raselkantirony-coder&theme=tokyonight&hide_border=true&background=0A1C3A&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" alt="GitHub contribution streak">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raselkantirony-coder&bg_color=0A1C3A&color=FFFFFF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph">
 
 </div>
 
